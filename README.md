@@ -1,3 +1,3 @@
  # Introdução a programação
  
- Olá esseé um exercício da aula de programação em c++.
+ Olá esse é um exercício da aula de programação em c++.
